@@ -43,11 +43,12 @@ h2 {
   font-size: 1.5rem;
 }
 h3 {
-  font-size: 0.75rem;
+  font-size: 1.5rem;
   color: #1792d2;
 }
 .widget-recent-post-title {
   color: #143774;
+  font-size: 0.75rem;
 }
 
 a {
