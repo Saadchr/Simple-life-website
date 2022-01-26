@@ -51,10 +51,17 @@ h3 {
   font-size: 0.75rem;
 }
 
-a {
+li a {
   color: #1792d2;
+  text-transform: uppercase;
+}
+a{
+  color:#1792d2;
 }
 
+nav a{
+  letter-spacing: 1px;
+}
 a:focus,
 a:hover {
   color: #143774;
@@ -68,11 +75,12 @@ a:hover {
 .article-info {
   font-weight: 400;
 }
-
+e
 .article-read-more {
   text-transform: uppercase;
   text-decoration: none;
   font-weight: 700;
+  letter-spacing: 1px;
 }
 
 .article-read-more:hover,
@@ -87,6 +95,7 @@ a:hover {
   color: #1792d2;
   font-size: 0.75rem;
   margin: 0;
+  text-transform: uppercase;
  
 }
 .widget-title,
